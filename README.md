@@ -112,6 +112,7 @@ bank-loan-performance-dashboard/
     ├── regional-analysis.png
     └── branch-analysis.png
 ```
-Author
+
+# Author
 
 Mahammad Ramazanli
