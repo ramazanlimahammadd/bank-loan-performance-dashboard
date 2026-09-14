@@ -111,3 +111,7 @@ bank-loan-performance-dashboard/
     ├── bank-overview.png
     ├── regional-analysis.png
     └── branch-analysis.png
+```
+Author
+
+Mahammad Ramazanli
